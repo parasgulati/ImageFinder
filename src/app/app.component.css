@@ -1,0 +1,14 @@
+#Heading
+{
+    color:red;
+    background-color:cyan;
+}
+.vl {
+    border-right: 6px solid green;
+    height: 500px;
+    text-align:center;
+  }
+#rule
+{
+    border-top:2px black solid;
+}
